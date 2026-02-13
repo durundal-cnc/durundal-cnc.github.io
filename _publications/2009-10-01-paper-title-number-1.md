@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Evaluating color correction algorithms for automated interpretation of urinalysis dipsticks with low-cost image sensors"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+date: 2023-03-06
+venue: 'Proceedings Volume 12369, Optics and Biophotonics in Low-Resource Settings IX'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Proceedings Volume 12369, Optics and Biophotonics in Low-Resource Settings IX; 123690B (2023)'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Some medical diagnostic tools, such as urinalysis dipsticks, rely on reading colors accurately for making clinical decisions. Reading color visually can be subject to 1) perceptual differences (inter-observer), 2) environmental factors such as illumination, and 3) target coloring (metamerism), especially among users with limited training and experience. Mobile phone cameras and compact camera modules offer potential low-cost platforms for automated, objective color readouts. However, image colors are a function of camera sensor and illumination characteristics. To restore color fidelity, color correction techniques must be applied to account for systematic deviation. This work aims to provide a quantitative assessment of color correction techniques and reduce variability in color interpretation for urinalysis dipstick results using a low-cost imager. Three color correction methods – linear, polynomial, and root-polynomial regression – were compared for performance in color difference reduction. A standard color checker card was used as reference to compute color correction matrices. A custom imaging system with a low-cost camera module was developed to capture images under controlled illumination. Reference values of the color checker card were obtained with a CM-26d handheld spectrophotometer. The CIE2000 ∆E was used to quantify the color difference between the camera image and the spectrometer to evaluate 3 color correction algorithms. The derived color correction matrices were applied to urinalysis dipstick images and compared to the spectrometer readings. Results indicated that polynomial fitting showed the lowest ∆E during calibration but failed to properly correct urine dipstick colors. Root polynomial offered the best performance in reducing color differences to be below 3 to 4 ∆E. Utilizing L*a*b values for classifying a given dipstick result according to reference concentration levels, it was found that quadratic discriminant analysis (QDA) and k Nearest Neighbor (kNN) classifiers achieved an 82.9% and 97.1% accuracy, respectively.
+
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12369/2653972/Evaluating-color-correction-algorithms-for-automated-interpretation-of-urinalysis-dipsticks/10.1117/12.2653972.short?tab=ArticleLinkReference
