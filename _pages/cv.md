@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
@@ -34,12 +29,40 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mechanical System Architecture
+* Requirements Definition
+* Thermal Systems Engineering
+  * Phase change material (PCM)
+  * Cryogenic
+  * Thermoelectric coolers (TECs)
+  * Heat pipes
+* Precision Opto-Mechanical Packaging
+* Structural, Modal & Thermal Finite Element Analysis (FEA)
+  * Abaqus
+  * ANSYS
+  * Orbis
+* Computer aided design (CAD)
+  * Solidworks
+  * Creo & Pro/E
+  * Fusion 360
+  * Siemens NX
+  * I-DEAS
+* Geometric Dimensioning & Tolerancing (GD&T)
+  * ASME Y14.5
+* Vacuum Systems & Environmental Testing
+  * Chamber design
+  * Instrument control and logging
+  * Data analysis
+* Design for Manufacturability
+* Production Transfer
+* Configuratoin Control
+* Mechanism Design & Precision Actuation
+* Experimental Design & Validation Strategy
+* Cross-Disciplinary Technical Leadership
+
+Education
+======
+* B.S. in Mechanical Engineering, University of Washington, 2006
 
 Publications
 ======
@@ -47,18 +70,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Patents
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.patents reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
