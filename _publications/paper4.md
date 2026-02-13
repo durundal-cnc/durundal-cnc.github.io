@@ -6,7 +6,7 @@ permalink: /publication/paper4
 excerpt: 'Efficacy of the measurements of the vaginal electrical resistance to determine the phase of the estrous cycle in lactating dairy cattle'
 date: 2019-12-05
 venue: 'Journal of Animal Science'
-paperurl: 'https://durundal-cnc.github.io/files/paper4.pdf'
+paperurl: 'https://durundal-cnc.github.io/files/skz258.282.pdf'
 citation: 'J Anim Sci. 2019 Dec 5;97(Suppl 3):138 DOI:10.1093/jas/skz258.282'
 ---
 
