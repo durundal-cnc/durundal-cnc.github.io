@@ -1,12 +1,12 @@
 ---
 title: "A Robust Incubator to Improve Access to Microbiological Culture in Low Resource Environments"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/paper5
 excerpt: 'A Robust Incubator to Improve Access to Microbiological Culture in Low Resource Environments'
 date: 2019-01-22
 venue: 'Journal of Medical Devices'
-paperurl: 'https://durundal-cnc.github.io/files/paper3.pdf'
+paperurl: 'https://durundal-cnc.github.io/files/paper5.pdf'
 citation: 'J Med Device. 2019 Mar;13(1):0110071-110077 DOI:10.1115/1.4042206'
 ---
 
