@@ -6,7 +6,7 @@ permalink: /publication/paper3
 excerpt: 'Algorithms to predict moisture content of grain using relative humidity time-series'
 date: 2020-10-29
 venue: '2020 IEEE Global Humanitarian Technology Conference (GHTC)'
-paperurl: 'https://durundal-cnc.github.io/files/paper3.pdf'
+paperurl: 'https://durundal-cnc.github.io/files/gmaGhtc_9july2020.pdf.pdf'
 citation: '2020 IEEE Global Humanitarian Technology Conference (GHTC) DOI: 10.1109/GHTC46280.2020.9342933'
 ---
 
