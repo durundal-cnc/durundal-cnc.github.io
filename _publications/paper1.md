@@ -1,7 +1,7 @@
 ---
 title: "Evaluating color correction algorithms for automated interpretation of urinalysis dipsticks with low-cost image sensors"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Evaluating color correction algorithms for automated interpretation of urinalysis dipsticks with low-cost image sensors'
 date: 2023-03-06
