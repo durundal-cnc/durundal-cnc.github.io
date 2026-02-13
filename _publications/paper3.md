@@ -1,7 +1,7 @@
 ---
 title: "Algorithms to predict moisture content of grain using relative humidity time-series"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/paper3
 excerpt: 'Algorithms to predict moisture content of grain using relative humidity time-series'
 date: 2020-10-29
