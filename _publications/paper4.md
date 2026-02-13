@@ -1,7 +1,7 @@
 ---
 title: "Efficacy of the measurements of the vaginal electrical resistance to determine the phase of the estrous cycle in lactating dairy cattle"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/paper4
 excerpt: 'Efficacy of the measurements of the vaginal electrical resistance to determine the phase of the estrous cycle in lactating dairy cattle'
 date: 2019-12-05
