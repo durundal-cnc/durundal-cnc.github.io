@@ -12,4 +12,4 @@ TW201732035A, Publication Date: 2017-09-16
 EP3426765A1, Publication Date: 2019-01-16
 EP3426765A4, Publication Date: 2019-11-06
 
-permalink: [/patents/2009-10-01-paper-title-number-1](https://patents.google.com/patent/US20170260492A1/en)
+link: [https://patents.google.com/patent/US20170260492A1/en]
