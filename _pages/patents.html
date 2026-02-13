@@ -9,8 +9,8 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-<!-- Use teaching container for patenets
-{% if site.teaching_category %}
+<!-- Use teaching container for patents -->
+<!-- {% if site.teaching_category %}
   {% for category in site.teaching_category  %}
     {% assign title_shown = false %}
     {% for post in site.teaching reversed %}
@@ -29,3 +29,9 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+-->
+{% include base_path %}
+
+{% for post in site.patents reversed %}
+  {% include archive-single.html %}
+{% endfor %}
