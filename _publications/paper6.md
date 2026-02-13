@@ -6,7 +6,7 @@ permalink: /publication/paper6
 excerpt: 'A SDD and PCM solution for vaccine storage and outreach'
 date: 2016-10-13
 venue: 'IEEE 2016 Global Humanitarian Technology Conference'
-paperurl: 'https://durundal-cnc.github.io/files/paper6.pdf'
+paperurl: 'https://durundal-cnc.github.io/files/A_SDD_and_PCM_solution_for_vaccine_storage_and_outreach.pdf'
 citation: 'IEEE 2016 Global Humanitarian Technology Conference DOI:10.1109/GHTC.2016.7857335'
 ---
 
