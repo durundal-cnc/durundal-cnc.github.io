@@ -6,7 +6,7 @@ permalink: /publication/paper2
 excerpt: 'A Microfluidic Device and Instrument Prototypes for the Detection of Escherichia coli in Water Samples using a Phage-Based Bioluminescence Assay'
 date: 2022-05-31
 venue: 'Lab Chip'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://academicpages.github.io/files/Lab on a Chip microfluidic device for e. coli water samples d1lc00888a.pdf'
 citation: 'Lab Chip, 2022,22, 2155-2164. doi: 10.1039/d1lc00888a.'
 ---
 
