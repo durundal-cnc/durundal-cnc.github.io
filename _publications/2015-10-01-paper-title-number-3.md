@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Algorithms to predict moisture content of grain using relative humidity time-series"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/paper3
+excerpt: 'Algorithms to predict moisture content of grain using relative humidity time-series'
+date: 2020-10-29
+venue: '2020 IEEE Global Humanitarian Technology Conference (GHTC)'
+paperurl: 'https://durundal-cnc.github.io/files/paper3.pdf'
+citation: '2020 IEEE Global Humanitarian Technology Conference (GHTC) DOI: 10.1109/GHTC46280.2020.9342933'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Post-harvest losses to grain crops are conservatively estimated at 10-20% (ranging up to 40%) in many countries. In particular, grains must be properly dried to avoid spoilage, harmful mycotoxins from mold, and financial loss. Smallholder farmers can thus greatly benefit from a means to assess Moisture Content (MC) in their grain. We describe a two-step algorithm, with very low computational cost, that calculates MC with high accuracy, using Relative Humidity (RH) and Temperature (T) time-series. The time-series do not need to reach equilibrium state, enabling fast (12-minute) time-to-result. The algorithm first curve-fits the RH time-series to estimate asymptotic RH, in order to leverage the physics of the RH-T-MC equilibrium relationship. It then uses regression to estimate MC to within ±1% on ≥95% of samples over a wide range of ambient RH-T conditions, on both Lab and Field samples of 10 different grains.
+
