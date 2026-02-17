@@ -1,6 +1,6 @@
 ---
 title: "CNC router build"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "CNC router<br/><img src='/images/CNC_router.jpeg'>"
 collection: portfolio
 ---
 
