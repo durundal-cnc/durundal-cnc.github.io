@@ -1,6 +1,6 @@
 ---
 title: "Medication monitoring"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Trackers for TB medication adherence<br/><img src='/images/medication_adherence_monitors.jpg'>"
 collection: portfolio
 ---
 
