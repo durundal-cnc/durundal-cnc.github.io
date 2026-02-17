@@ -1,6 +1,6 @@
 ---
 title: "E. Coli Phage stage"
-excerpt: "Novel low cost, quick quantitative test for water quality<br/><img src='/images/500x300.png'>"
+excerpt: "Novel low cost, quick quantitative test for water quality<br/><img src='/images/ecoli_phage.png'>"
 collection: portfolio
 ---
 
