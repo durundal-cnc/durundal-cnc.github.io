@@ -1,6 +1,6 @@
 ---
 title: "Farrier 22 trimaran build"
-excerpt: "Building a Farrier 22 trimaran from plans<br/><img src='/images/500x300.png'>"
+excerpt: "Building a Farrier 22 trimaran from plans<br/><img src='/images/Farrier 22.jpeg'>"
 collection: portfolio
 ---
 
