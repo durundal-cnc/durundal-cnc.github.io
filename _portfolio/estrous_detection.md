@@ -1,6 +1,6 @@
 ---
 title: "Bovine estrous detection"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Probe for measuring bovine estrous through hormonal changes and associated resistivity changes<br/><img src='/images/cowprobe.png'>"
 collection: portfolio
 ---
 
