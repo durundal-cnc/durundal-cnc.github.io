@@ -1,6 +1,6 @@
 ---
 title: "Arktek SDD"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Solar Direct Drive refrigerator module for Arktek Passive Vaccine Storage Device<br/><img src='/images/ArktekSDD.png'>"
 collection: portfolio
 ---
 
