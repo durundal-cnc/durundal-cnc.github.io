@@ -1,6 +1,6 @@
 ---
 title: "Grain Moisture Meter"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Extremely low cost grain moisture meters<br/><img src='/images/grain moisture meters.jpeg'>"
 collection: portfolio
 ---
 
