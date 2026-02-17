@@ -1,6 +1,6 @@
 ---
 title: "Low Cost Low Resource Incubator"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "PCM based incubator prototpye and commercial version<br/><img src='/images/PCM incubators.jpg'>"
 collection: portfolio
 ---
 
