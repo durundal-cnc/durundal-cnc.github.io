@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Andrew Miller"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# Andrew Miller
 
 ## Engineer, ideator, designer, builder
   </br>
