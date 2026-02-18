@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 ## Engineer, ideator, designer, builder
-  a
-  b
-  c
+#  
 # About Me
 Innovative R&D engineer with 15+ years of experience leading the design and delivery of complex hardware systems across aerospace and global health sectors. Expertise in thermal management, opto-mechanical and electronic packaging, structural/thermal FEA, environmental validation, prototyping/proof of concept and field testing. Proven ability to own full mechanical system architecture from concept through production handoff. Named inventor on multiple patents.
 
