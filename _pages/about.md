@@ -15,7 +15,7 @@ Innovative R&D engineer with 15+ years of experience leading the design and deli
 
 ## EXPERT IN
 
-System Architecture, Requirements   Definition and Flowdown  
+System Architecture, Requirements   Definition and Flowdown    
 Cross-Functional Technical Leadership  
 Precision Opto-Mechanical Design  
 Vacuum & Environmental Test  
