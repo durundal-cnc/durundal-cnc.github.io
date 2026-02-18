@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Engineer, ideator, designer, builder
-a  
+  
 a  
 a  
 a  
