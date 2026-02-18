@@ -12,10 +12,10 @@ redirect_from:
   
   
   
-# About Me
+## About Me
 Innovative R&D engineer with 15+ years of experience leading the design and delivery of complex hardware systems across aerospace and global health sectors. Expertise in thermal management, opto-mechanical and electronic packaging, structural/thermal FEA, environmental validation, prototyping/proof of concept and field testing. Proven ability to own full mechanical system architecture from concept through production handoff. Named inventor on multiple patents.
 
-## EXPERT IN
+### EXPERT IN
 System Architecture, Requirements   Definition and Flowdown    
 Cross-Functional Technical Leadership  
 Precision Opto-Mechanical Design  
@@ -28,7 +28,7 @@ Mechanism Design
 Prototype Development  
 GD&T  
 
-## SKILLS
+### SKILLS
 CAD & Analysis: SolidWorks, Creo, Abaqus, ANSYS, NX, Fusion 360  
 Thermal Systems: PCM integration, cryogenic systems, TECs, heat pipes  
 Manufacturing: CNC machining, molding, waterjet, EDM, additive manufacturing  
