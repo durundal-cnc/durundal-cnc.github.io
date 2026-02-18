@@ -27,7 +27,7 @@ Prototype Development
 GD&T  
 
 ### SKILLS
-*CAD & Analysis:* SolidWorks, Creo, Abaqus, ANSYS, NX, Fusion 360  
-*Thermal Systems:* PCM integration, cryogenic systems, TECs, heat pipes  
-*Manufacturing:* CNC machining, molding, waterjet, EDM, additive manufacturing  
-*Software:* LabVIEW, Python, C, MATLAB  
+**CAD & Analysis:** SolidWorks, Creo, Abaqus, ANSYS, NX, Fusion 360  
+**Thermal Systems:** PCM integration, cryogenic systems, TECs, heat pipes  
+**Manufacturing:** CNC machining, molding, waterjet, EDM, additive manufacturing  
+**Software:** LabVIEW, Python, C, MATLAB  
